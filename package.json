@@ -1,5 +1,5 @@
 {
-  "name": "ref-napi",
+  "name": "@alphacep/ref-napi",
   "description": "Turn Buffer instances into \"pointers\"",
   "engines": {
     "node": ">= 10.0"
